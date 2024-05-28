@@ -1,0 +1,13 @@
+.round {
+  width: 70px; 
+  height: 70px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+spanMain{
+  font-size: 15px;
+  margin-right: 10px;
+
+}
